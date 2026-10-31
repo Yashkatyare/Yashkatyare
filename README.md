@@ -1,4 +1,4 @@
-# Hi, I'm Yash Katare 👋
+# Hi, I'm Yash Katyare 👋
 
 ### Electronics & Telecommunication Engineering Student | Embedded Systems | IoT
 
