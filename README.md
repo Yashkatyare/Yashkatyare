@@ -40,3 +40,17 @@ Pillai College of Engineering, Navi Mumbai
 - **LinkedIn:** [Yash Katyare](https://www.linkedin.com/in/yash-katyare-0a8378373/)
 
 I'm always interested in learning, building projects, and exploring opportunities in Embedded Systems and Electronics Engineering.
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-katyare-0a8378373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Yashkatyare">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
