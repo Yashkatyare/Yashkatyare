@@ -37,6 +37,6 @@ Pillai College of Engineering, Navi Mumbai
 ## 🤝 Connect With Me
 
 - **GitHub:** https://github.com/Yashkatyare
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** [Yash Katare](https://www.linkedin.com/in/yash-katyare-0a8378373/)
 
 I'm always interested in learning, building projects, and exploring opportunities in Embedded Systems and Electronics Engineering.
