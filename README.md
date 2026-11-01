@@ -44,7 +44,6 @@ I'm always interested in learning, building projects, and exploring opportunitie
 
 ---
 
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-katyare-0a8378373/">
