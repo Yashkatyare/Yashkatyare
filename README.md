@@ -102,3 +102,30 @@ I'm always interested in learning, building projects, and exploring opportunitie
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yashkatyare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+
+
+---
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### Communication Protocols
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UART-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/I2C-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPI-444444?style=for-the-badge" />
+</p>
