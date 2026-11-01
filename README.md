@@ -34,6 +34,14 @@ An ESP32-based project that scans Wi-Fi signal strength (RSSI) and uses servo mo
 Pillai College of Engineering, Navi Mumbai  
 2023 – 2027
 
+## 🏆 Achievements
+
+- 🥇 **1st Prize Winner** – Hackathon Competition: *Design and Implementation of Robots Using Simscape*
+- 🤖 Designed a **Robotic Arm** using MATLAB Simscape as part of the competition.
+- 📜 Received a certificate of achievement for securing 1st Prize.
+
+**Project Repository:** [Robotic Arm – MATLAB Simscape](https://github.com/Yashkatyare/Robotic-Arm-Design-Using-MATLAB-Simscape)
+
 ## 🤝 Connect With Me
 
 - **GitHub:** https://github.com/Yashkatyare
@@ -41,9 +49,7 @@ Pillai College of Engineering, Navi Mumbai
 
 I'm always interested in learning, building projects, and exploring opportunities in Embedded Systems and Electronics Engineering.
 
-
 ---
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-katyare-0a8378373/">
