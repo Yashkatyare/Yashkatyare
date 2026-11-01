@@ -42,6 +42,30 @@ Pillai College of Engineering, Navi Mumbai
 
 **Project Repository:** [Robotic Arm – MATLAB Simscape](https://github.com/Yashkatyare/Robotic-Arm-Design-Using-MATLAB-Simscape)
 
+## 💻 My Projects
+
+### 1. Automatic Antenna Alignment System
+**Technologies:** ESP32 | Embedded C | Arduino IDE | Wi-Fi | I2C | Servo Motor
+
+An ESP32-based system that scans Wi-Fi RSSI values and uses servo motor control to identify the direction with stronger signal strength.
+
+- [View GitHub Repository](https://github.com/Yashkatyare/Automatic-Antenna-Alignment-System)
+- [View Live Project Website](https://yashkatyare.github.io/Automatic-Antenna-Alignment-System/)
+
+### 2. Home Automation System
+**Technologies:** Raspberry Pi | Arduino | PIR Sensor | Ultrasonic Sensor | Embedded Systems
+
+A smart home automation project designed to control lights, fans, and doors using sensor-based inputs and embedded platforms.
+
+- [View GitHub Repository](https://github.com/Yashkatyare/Home-Automation-Using-Raspberry-Pi-and-Arduino)
+
+### 3. Robotic Arm Design Using MATLAB Simscape 🏆
+**Technologies:** MATLAB | Simulink | Simscape | Robotics Simulation
+
+Designed a robotic arm for the hackathon competition *Design and Implementation of Robots Using Simscape* and secured **1st Prize**.
+
+- [View GitHub Repository and Certificate](https://github.com/Yashkatyare/Robotic-Arm-Design-Using-MATLAB-Simscape)
+
 ## 🤝 Connect With Me
 
 - **GitHub:** https://github.com/Yashkatyare
